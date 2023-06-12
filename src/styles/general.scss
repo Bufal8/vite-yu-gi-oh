@@ -1,0 +1,37 @@
+
+
+// Bootstrap => npm installed
+@import '../../node_modules/bootstrap/scss/bootstrap.scss';
+
+//Fonts => npm install (yet to install)
+
+/***************
+    GENERAL
+***************/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img {
+    max-width: 100%;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+ul {
+    list-style-type: none;
+}
+
+
+
+
+//DEBUG
+body {
+    background-color: #d48f38;
+}
